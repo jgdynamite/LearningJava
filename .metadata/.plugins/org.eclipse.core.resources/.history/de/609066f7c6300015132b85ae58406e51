@@ -1,0 +1,15 @@
+// Welcome1.java
+// Text-printing program.
+/* Multi-line comment */
+/** Documentation comment - Can be used for java 
+ * doc. If you are developing real code in the 
+ * industry, you should be using this style of commenting
+ * */
+public class Welcome1 
+{
+	// main method begins execution of java application
+	public static void main(String[] args) 
+	{
+		System.out.println("Welcome to Java Programming!");
+	} // end method main
+} // end class Welcome1

@@ -35,7 +35,7 @@ public class ClassAverageCast
 		if (gradeCounter != 0)
 		{
 			// use number with decimal point to calculate average of grades
-			double average = (double) total / gradeCounter;
+			double average = (double) total / gradeCounter; // this is the introduction of Cast
 			
 			// display total and average (with two digits of precision)
 			System.out.printf("%nTotal of the %d grades entered is %d%n",

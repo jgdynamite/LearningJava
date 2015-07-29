@@ -3,9 +3,9 @@
 
 public class StudentTest 
 {
-	public static void main(String[] args)
+	public static void main(String[] args) // Note here that String is actually a class.
 	{
-		Student account1 = new Student("Jane Green", 33.5);
+		Student account1 = new Student("Jane Green", 93.5);
 		Student account2 = new Student("John Blue", 72.75);
 		
 		 System.out.printf("%s's letter grade is: %s%n",
